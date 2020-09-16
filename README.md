@@ -4,7 +4,7 @@
 ![Image of Dog](https://pbs.twimg.com/media/EYa1LVSWkAczgk2?format=jpg&name=small)
 
 ## Summary of Findings
-> There are more favorite tweets than counts of a retweet on WeRateDogs. This means people are favoriting a picture of a dog than they are retweeting that tweet. Top names are A (unrecorded name), Charlie, Penny, Lucy, and Tucker. The stage of Pupper has the highest number of dogs among all other stages. 
+> There are more favorite tweets than counts of a retweet on WeRateDogs. This means people are favoriting a picture of a dog than they are retweeting that tweet. Top names are A(unrecorded name), Charlie, Penny, Lucy, and Tucker. The stage of Pupper has the highest number of dogs among all other stages. 
 
 ## Tools Used for this Project
   - Packages: Anaconda, Conda
